@@ -1,0 +1,1 @@
+# prometheus_sample.yml
